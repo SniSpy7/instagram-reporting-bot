@@ -25,7 +25,7 @@
 I am not accountable for any of your actions.
 ```
 
------
+----
 <p>When Do You Actually Need an Instagram Spam Report Bot?</p>
 <p>Not every spam account warrants a dedicated tool. But there are clear scenarios where manual reporting falls short and a bot or managed service becomes the practical solution.</p>
 Your Brand Is Being Impersonated by Spam Accounts
