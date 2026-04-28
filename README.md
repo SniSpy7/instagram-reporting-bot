@@ -25,7 +25,7 @@
 I am not accountable for any of your actions.
 ```
 
-----
+------
 <p>When Do You Actually Need an Instagram Spam Report Bot?</p>
 <p>Not every spam account warrants a dedicated tool. But there are clear scenarios where manual reporting falls short and a bot or managed service becomes the practical solution.</p>
 Your Brand Is Being Impersonated by Spam Accounts
@@ -66,4 +66,4 @@ You can report accounts engaging in promotional spam, fake follower schemes, sca
 To use a spam report bot for an Instagram account, you provide the target account's handle or profile URL to the service. The team then verifies the account is genuinely engaged in spam, collects evidence such as screenshots and timestamps, maps the violation to the correct Instagram reporting category, and submits the report through official channels. You receive follow-up tracking on the outcome within 24 to 48 hours.
 
 9. Is there a bot that can report spam accounts on Instagram automatically?
-Automated bots that programmatically submit reports through Instagram's API do exist, but they carry significant risk — Instagram actively detects and penalizes automated reporting activity. A more reliable approach is a done-for-you service where a human team handles verification, evidence collection, and submission manually through official reporting flows, which produces better results and carries no risk to your account
+Automated bots that programmatically submit reports through Instagram's API do exist, but they carry significant risk — Instagram actively detects and penalizes automated reporting activity. A more reliable approach is a done-for-you service where a human team handles verification, evidence collection, and submission manually through official reporting flows, which produces better results and carries no risk to your account.
